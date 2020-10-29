@@ -1,3 +1,4 @@
 /.vscode
 /fft-voronoi-env/
 *.wav
+__pycache__/
