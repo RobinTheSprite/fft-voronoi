@@ -2,3 +2,4 @@
 /fft-voronoi-env/
 *.wav
 __pycache__/
+gallery/
